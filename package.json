@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_giftlow_alexander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amor709/Primer_ejemplo_giftlow_alexander.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amor709/Primer_ejemplo_giftlow_alexander/issues"
+  },
+  "homepage": "https://github.com/amor709/Primer_ejemplo_giftlow_alexander#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
